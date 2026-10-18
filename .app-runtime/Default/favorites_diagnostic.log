@@ -1,0 +1,17 @@
+2026-10-18 14:33:41.751: [INFO] CurrentProfilePath: C:\Users\celik\Desktop\fruit\.app-runtime\Default
+2026-10-18 14:33:41.751: [INFO] Profiles total count: 1
+2026-10-18 14:33:41.751: [INFO] Profile: name=Profil 1 path=C:\Users\celik\Desktop\fruit\.app-runtime\Default lastActive=2026-10-18T14:33:41.731Z
+2026-10-18 14:33:41.751: [INFO] LastUsedProfileDir: C:\Users\celik\Desktop\fruit\.app-runtime\Default
+2026-10-18 14:33:41.751: [INFO] MostRecentlyActiveProfile: name=Profil 1 path=C:\Users\celik\Desktop\fruit\.app-runtime\Default lastActive=2026-10-18T14:33:41.731Z
+2026-10-18 14:33:41.751: [INFO] OnDoneLoading sync enabled: 0
+2026-10-18 14:33:41.751: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-18 14:33:41.751: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-18 14:33:41.751: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-18 14:33:41.754: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-10-18 14:33:43.478: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-10-18 14:33:43.480: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 3
+2026-10-18 14:33:43.482: [INFO] Primary account changed.
+2026-10-18 14:33:43.482: [INFO] OnPrimaryAccountChanged PrimaryAccountChangeEvent::Type::kSet
+2026-10-18 14:33:43.489: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 3
+2026-10-18 14:33:47.352: [INFO] Sync initialization duration: 3737ms
+2026-10-18 14:33:57.933: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1

@@ -1,0 +1,26 @@
+{
+  "name": "sudev-fruit-ninja",
+  "version": "1.0.0",
+  "description": "SÜDEV Tasarım Dili ile Tek Parmak (Webcam Hand Tracking) Fruit Ninja Oyunu ve Otomatik Excel Kayıt Sistemi",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "sudev",
+    "fruit-ninja",
+    "mediapipe",
+    "excel"
+  ],
+  "author": "SÜDEV",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@mediapipe/camera_utils": "^0.3.1675466862",
+    "@mediapipe/hands": "^0.4.1675469240",
+    "express": "^5.1.0",
+    "three": "^0.186.1",
+    "xlsx": "^0.18.5"
+  }
+}
